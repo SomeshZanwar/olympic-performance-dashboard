@@ -21,7 +21,7 @@ Streamlit dashboard exploring **120+ years of Olympic history** (1896–2016, 27
 
 ## Project Structure
 
-```text
+
 olympic-performance-dashboard/
 ├── data/
 │   ├── raw/athlete_events.csv
@@ -36,7 +36,7 @@ olympic-performance-dashboard/
 │   └── figures/           # screenshots (for README)
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+└── .gitignore 
 
 ## How to run localy
 
