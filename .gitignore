@@ -1,0 +1,22 @@
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+
+# Outputs
+outputs/figures/*
+!outputs/figures/.gitkeep
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
