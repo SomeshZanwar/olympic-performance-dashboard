@@ -39,7 +39,7 @@ olympic-performance-dashboard/
 └── .gitignore 
 ```
 ## How to run localy
-
+```
 git clone https://github.com/<your-username>/olympic-performance-dashboard.git
 cd olympic-performance-dashboard
 
